@@ -1,8 +1,8 @@
 {
-  "name": "my-itpoly",
+  "name": "my-itpoly1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zaxvl1.github.io/tanawat12itpoly_4101/",
+  "homepage": "https://zaxvl1.github.io/itpoly_12test/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
